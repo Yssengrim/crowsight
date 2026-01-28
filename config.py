@@ -1,0 +1,5 @@
+SUBNET = "192.168.1.0/24"
+PING_COUNT = 3
+COMMON_PORTS = [22, 80, 443, 3389]
+DB_FILE = "network.db"
+
